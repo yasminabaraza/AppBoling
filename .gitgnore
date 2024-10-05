@@ -1,0 +1,18 @@
+# Creado por https://www.toptal.com/developers/gitignore/api/netbeans
+# Editar en https://www.toptal.com/developers/gitignore?templates=netbeans
+
+###Beans de red ###
+**/nbproyecto/privado/
+**/nbproject/Makefile-*.mk
+**/nbproject/Paquete-*.bash
+construir/
+nbconstruir/
+distribución/
+nbdist/
+.nb-gradle/
+
+# Fin de https://www.toptal.com/developers/gitignore/api/netbeans
+
+git remoto agregar origen https://github.com/yasminabaraza/menu.git
+ git rama -M principal 
+git push -u origen principal
